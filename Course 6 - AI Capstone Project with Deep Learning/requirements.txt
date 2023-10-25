@@ -1,0 +1,5 @@
+echo "torchvision==0.11.0" >> requirements.txt
+echo "Pillow==8.3.2" >> requirements.txt
+echo "pandas==1.3.3" >> requirements.txt
+echo "torch==1.10.0" >> requirements.txt
+echo "matplotlib==3.4.3" >> requirements.txt
